@@ -9,6 +9,9 @@ True minimal theme is extremely lightweight and ascetic jekyll theme.
 This theme has only one css file, which is used for source code highlighting. 
 
 
+test 테스트
+drugfy 드러그파이
+
 # Heading 1
 ## Heading 2
 ### Heading 3
